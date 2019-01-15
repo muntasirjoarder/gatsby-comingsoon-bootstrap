@@ -1,0 +1,18 @@
+@import '../dist/vendor/bootstrap/css/bootstrap.min.css';
+@import '../dist/css/coming-soon.css';
+
+#___gatsby,#bodycontent,#___gatsby>div{
+  height: 100%;
+  width: 100%;
+}
+
+.masthead {
+  height: 100%;
+  min-height: 0;
+  width: 40.5rem;
+  padding-bottom: 0;
+}
+
+.hideme {
+  display: none;
+}
